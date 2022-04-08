@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">КалькуляцияХороша</string>
+    <string name="about_title">О программе</string>
+    <string name="theme_dark">Свет</string>
+    <string name="theme_light">Тьма</string>
+    <string name="about_text">
+    Современный, отличный и\n
+    бесплатный калькулятор\n
+    <b>Разработчики:</b>\n
+    Гонта Станислав Владимирович\n
+    Лимар Валерия Альбертовна\n
+    Карасев Виктор Сергеевич\n
+    <b>Об организации:</b>\n
+    МАГУ - это лучший опорный вуз\n
+    Мурманской области</string>
+</resources>
